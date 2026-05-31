@@ -91,7 +91,3 @@ WindowsFormsApp1/
 - UI theme customization (dark/light mode).
 
 ---
-
-## 📄 License
-
-This project uses books from Project Gutenberg, which are in the public domain. The code is open-source and free to use for educational purposes.
